@@ -52,18 +52,18 @@ This organization hosts the analysis tools, scripts, and pipelines built and mai
 
 | Repository | Description | Language | Original Author |
 |---|---|---|---|
-| [SingleCellTools](https://github.com/Salk-IGC/SingleCellTools) | Make analyzing single cell data a little easier | R | [gevensen95](https://github.com/gevensen95) |
+| [april_R_package](https://github.com/Salk-IGC/april_R_package) | April's Salk IGC R package | R | [AprilJack](https://github.com/AprilJack) |
+| [Dfam-Repeat-Quantification](https://github.com/Salk-IGC/Dfam-Repeat-Quantification) | How to quantify repeats from the Dfam database in subtelomeric reads | Awk | [AprilJack](https://github.com/AprilJack) |
 | [EdgeDetectionVisium](https://github.com/Salk-IGC/EdgeDetectionVisium) | Identify spots near the edges of the Visium box, tissue boundary, and any holes/tears in tissue using a nearest-neighbor algorithm | R | [gevensen95](https://github.com/gevensen95) |
+| [IGC_Scripts](https://github.com/Salk-IGC/IGC_Scripts) | Backup of in-house IGC analysis scripts | Java | [AprilJack](https://github.com/AprilJack) |
+| [IGC_SOPs](https://github.com/Salk-IGC/IGC_SOPs) | SOP vignettes and other tutorials for IGC bioinformatics analyses | — | [katlande](https://github.com/katlande) |
+| [MERFISH_Cropping](https://github.com/Salk-IGC/MERFISH_Cropping) | Command-line scripts for extracting areas from large MERFISH images using micron coordinates | Python | [katlande](https://github.com/katlande) |
+| [PCBS](https://github.com/Salk-IGC/PCBS) | Principal Component BiSulfite — differential methylation analysis for WGBS data | R | [katlande](https://github.com/katlande) |
 | [RNAseq_Functions](https://github.com/Salk-IGC/RNAseq_Functions) | An R package and vignette for basic RNA-seq analysis and figure generation | R | [katlande](https://github.com/katlande) |
 | [scCoExpress](https://github.com/Salk-IGC/scCoExpress) | R scripts for identifying gene co-expression within cells in single-cell, single-nucleus, and spatial data, using a pre-processed Seurat object | R | [katlande](https://github.com/katlande) |
-| [WGSToolkit](https://github.com/Salk-IGC/WGSToolkit) | Scripts for WGS analysis | Python | [katlande](https://github.com/katlande) |
-| [PCBS](https://github.com/Salk-IGC/PCBS) | Principal Component BiSulfite — differential methylation analysis for WGBS data | R | [katlande](https://github.com/katlande) |
-| [MERFISH_Cropping](https://github.com/Salk-IGC/MERFISH_Cropping) | Command-line scripts for extracting areas from large MERFISH images using micron coordinates | Python | [katlande](https://github.com/katlande) |
-| [IGC_SOPs](https://github.com/Salk-IGC/IGC_SOPs) | SOP vignettes and other tutorials for IGC bioinformatics analyses | — | [katlande](https://github.com/katlande) |
-| [Dfam-Repeat-Quantification](https://github.com/Salk-IGC/Dfam-Repeat-Quantification) | How to quantify repeats from the Dfam database in subtelomeric reads | Awk | [AprilJack](https://github.com/AprilJack) |
+| [SingleCellTools](https://github.com/Salk-IGC/SingleCellTools) | Make analyzing single cell data a little easier | R | [gevensen95](https://github.com/gevensen95) |
 | [splite-pipe-nextflow](https://github.com/Salk-IGC/splite-pipe-nextflow) | Nextflow pipeline for demultiplexing and processing Parse Biosciences (split-pipe) single-cell data | Nextflow | [AprilJack](https://github.com/AprilJack) |
-| [IGC_Scripts](https://github.com/Salk-IGC/IGC_Scripts) | Backup of in-house IGC analysis scripts | Java | [AprilJack](https://github.com/AprilJack) |
-| [april_R_package](https://github.com/Salk-IGC/april_R_package) | April's Salk IGC R package | R | [AprilJack](https://github.com/AprilJack) |
+| [WGSToolkit](https://github.com/Salk-IGC/WGSToolkit) | Scripts for WGS analysis | Python | [katlande](https://github.com/katlande) |
 
 → Full list at [github.com/orgs/Salk-IGC/repositories](https://github.com/orgs/Salk-IGC/repositories)
 
