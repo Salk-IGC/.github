@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Salk-IGC/.github/main/profile/salksaurus.gif" alt="Salksaurus" width="180" />
+</p>
+
 <h1 align="center">Salk-IGC</h1>
 
 <p align="center">
